@@ -10,5 +10,5 @@
 // +, -, /, *, **, %, =, ==, ===, 
 // var, let, const
  let a = 1
- let a = 2
+ let b = 2
 console.log(a)
